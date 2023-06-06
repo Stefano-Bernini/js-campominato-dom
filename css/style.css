@@ -55,3 +55,14 @@ main{
 .square.clicked{
     background-color: lightskyblue;
 }
+
+.square.bomb-finded{
+    background-color: rgb(179, 0, 0);
+}
+
+#message{
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    margin: 15px 0;
+}
